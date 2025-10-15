@@ -1,6 +1,6 @@
-# 💻 Java Basit Web Sunucusu - Kişisel Sayfa
+# 💻 Java Web Sunucusu
 
-Bu proje, **Java** dilini kullanarak yazılmış basit bir web sunucusu uygulamasıdır. Amacı, ağ programlama temellerini göstermek ve gelen HTTP isteklerine statik bir **kişisel web sayfası** HTML içeriği ile yanıt vermektir.
+Bu proje, **Java** dilini kullanarak yazılmış bir web sunucusu uygulamasıdır. Amacı, ağ programlama temellerini göstermek ve gelen HTTP isteklerine statik bir **kişisel web sayfası** HTML içeriği ile yanıt vermektir.
 
 ## 🚀 Proje Hakkında
 
